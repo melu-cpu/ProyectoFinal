@@ -22,8 +22,8 @@ p {
 
 body {
     /* background-color:#d5938d;  */
-    margin-top: auto;
-    position: absolute;
+     width: 50%;
+    margin: 20px auto;
 }
 
 .practicando {
